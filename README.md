@@ -1,6 +1,6 @@
 It lets you install Prestashop locally with docker, 1.7 (PHP 7.4) or 1.8 (PHP 8.2)
 
-##Start the containers
+**Start the containers**
 
 `docker-compose up -d`
 
